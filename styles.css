@@ -1,0 +1,43 @@
+
+
+body {
+    background-color: beige;
+    color: black;
+}
+* {
+   font-family: "Courier New", Monaco, sans; 
+   text-align: left;
+   margin-left: 5px;
+}
+
+h1 {
+    text-align: center;
+    font-weight: 100;
+    margin-left: 0px;
+}
+
+h2 {
+    margin-left: 0px;
+    box-sizing: content-box;
+}
+
+h3 {
+    margin-left: 40px;
+}
+
+ul, li, ol {
+    margin-left: 40px;
+    padding-left: 0px;
+}
+
+#Content {
+    margin-left: 40px;
+    max-width: 95%;
+}
+
+
+img {
+    border-radius: 10%;
+    border-color: black;
+
+}
