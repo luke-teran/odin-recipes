@@ -5,9 +5,10 @@ body {
     color: black;
 }
 * {
-   font-family: "Courier New", Monaco, sans; 
-   text-align: left;
-   margin-left: 5px;
+    border: 2px solid red;
+    font-family: "Courier New", Monaco, sans; 
+    text-align: left;
+    margin-left: 5px;
 }
 
 h1 {
